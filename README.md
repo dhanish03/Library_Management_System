@@ -26,6 +26,8 @@ IntelliJ IDEA (Recommended IDE)
 
 Compile and Run the Project:
 
+![Screenshot 2025-03-11 121528](https://github.com/user-attachments/assets/36dd621d-6f15-4bb9-9830-2a19ebde54eb)
+
 javac Main.java
 java Main
 
